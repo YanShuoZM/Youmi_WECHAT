@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b45d33b0-eade-4904-b2be-a306f16d4c89" name="Default Changelist" comment="">
+      <change afterPath="F:/vue-taopp-master/.babelrc" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/.editorconfig" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/.gitignore" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/.postcssrc.js" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/README.md" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/bankCard.json" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/begin.json" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/build/build.js" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/build/check-versions.js" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/build/dev-client.js" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/build/dev-server.js" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/build/utils.js" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/buyMovieMsg.json" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/buySeats.json" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/cinema.json" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/cinemaDetail.json" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/config/dev.env.js" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/config/index.js" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/config/prod.env.js" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/data.json" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/icon/favicon.ico" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/index.html" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/package-lock.json" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/package.json" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/App.vue" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/common/css/transition.styl" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/common/img/cinema.png" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/common/img/cinema_active.png" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/common/img/left.png" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/common/img/left1.png" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/common/img/movie.png" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/common/img/movie_active.png" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/common/img/tao-icon.png" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/common/img/taopp-icon.png" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/common/img/taopp-txt.png" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/common/img/user.png" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/common/img/user_active.png" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/common/js/formatDate.js" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/common/js/getHtmlFontSize.js" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/common/js/isPhone.js" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/alert/alert.vue" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/buy/buy.vue" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/buy/buyDetail.vue" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/buy/img/reset.png" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/buy/img/seat1.png" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/buy/img/seat2.png" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/buy/img/seat3.png" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/cinema/Cinema.vue" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/cinema/bank-card.vue" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/cinema/buy.vue" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/cinema/img/danger.png" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/cinema/img/right.png" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/cinema/img/search.png" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/cinema/img/selector.png" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/cinema/img/selector2.png" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/cinema/search.vue" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/cinema/selector.vue" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/header/header.vue" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/line/line.vue" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/loader/loader.vue" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/login/login.vue" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/movie/Begin.vue" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/movie/Hot.vue" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/movie/Movie.vue" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/movie/activities.vue" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/movie/detail.vue" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/movie/img/player.png" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/movie/img/right.png" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/movie/img/today-hot.png" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/movie/img/week-hot.png" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/movie/video.vue" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/selectcity/img/down.png" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/selectcity/img/logo.png" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/selectcity/selectcity.vue" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/star/img/star48_off@3x.png" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/star/img/star48_on@3x.png" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/star/star.vue" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/swipe/swipe.vue" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/taopp/taoppIcon.vue" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/user/MovieCard.vue" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/user/User.vue" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/user/cardDetail.vue" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/user/discount.vue" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/user/img/endIcon.png" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/user/img/help.png" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/user/img/lottery.png" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/user/img/opinion.png" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/components/user/img/tel.png" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/main.js" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/src/router/index.js" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/static/.gitkeep" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/static/css/reset.css" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/static/icon/favicon.ico" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/static/img/loading.gif" afterDir="false" />
+      <change afterPath="F:/vue-taopp-master/static/img/taopp-max.png" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-649" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.wxss">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project.config.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-216">
+              <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="32" column="55" selection-start-line="32" selection-start-column="55" selection-end-line="32" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/utils/api.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="417">
+              <caret line="221" column="17" lean-forward="true" selection-start-line="221" selection-start-column="17" selection-end-line="221" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="F:/" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1260" />
+    <option name="height" value="640" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Youmi-Vocabulary-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Youmi-Vocabulary-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b45d33b0-eade-4904-b2be-a306f16d4c89" name="Default Changelist" comment="" />
+      <created>1551252050741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551252050741</updated>
+      <workItem from="1551252056789" duration="1536000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1536000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="696" extended-state="7" />
+    <layout>
+      <window_info id="npm" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24960254" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216">
+          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.wxss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-649" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="32" column="55" selection-start-line="32" selection-start-column="55" selection-end-line="32" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="221" column="17" lean-forward="true" selection-start-line="221" selection-start-column="17" selection-end-line="221" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
